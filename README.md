@@ -50,7 +50,7 @@ The script will ask for:
 
 ```
 Enter your OpenAI API key: sk-...
-Enter the path to your PDF file: research_paper_spanish.pdf
+Enter the path to your PDF file: German-paper.pdf
 Enter target language (press Enter for English): English
 Enter output file path (press Enter for default): 
 
@@ -59,7 +59,7 @@ Translating 3 chunks...
 Translating chunk 1/3...
 Translating chunk 2/3...
 Translating chunk 3/3...
-Translation completed and saved to research_paper_spanish_translated_to_English.txt
+Translation completed and saved to german_paper_translated_to_English.txt
 ```
 
 ### How It Works
