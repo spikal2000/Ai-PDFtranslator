@@ -36,9 +36,8 @@ pip install openai PyPDF2
 
 Simply run the script and follow the interactive prompts:
 
-```bash
-python pdflingo.py
-```
+   Run the Translator_Ai.ipynb 
+
 
 The script will ask for:
 1. Your OpenAI API key (or use the OPENAI_API_KEY environment variable)
