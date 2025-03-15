@@ -25,7 +25,7 @@ Ai-PDFtranslator is a lightweight Python tool that extracts text from PDF docume
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/spikal2000/Ai-PDFtranslator.git
 cd pdflingo
 
 # Install dependencies
